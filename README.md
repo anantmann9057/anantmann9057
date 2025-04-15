@@ -21,6 +21,7 @@
 
 ### 🛢️ Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -56,5 +57,3 @@
 ### 📚 Educational App
 - Developed using **Kotlin**
 - Delivered educational content with a clean and intuitive UI
-
-
