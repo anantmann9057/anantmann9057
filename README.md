@@ -31,7 +31,7 @@
 - Real-time communication, content sharing, and user role management.
 
 ### 🏢 Warehouse Management System
-- Built for **Singodwala Warehousing Logistics Pvt. Ltd.**
+- Built for **Warehousing and Logistics**
 - Features: inventory management, employee tracking, and real-time updates.
 
 ### 👥 Employee & Driver Management Apps
@@ -50,11 +50,11 @@
 - **img.ly SDK** for video editing and effects
 
 ### 🛍️ E-commerce Fashion App (AR)
-- Developed at **Homybee** using **Java**
+- Developed using **Java**
 - Integrated **AR** for virtual clothes trials
 
-### 📚 Newton Desk Educational App
-- Developed at **Ethereal Softech** using **Kotlin**
+### 📚 Educational App
+- Developed using **Kotlin**
 - Delivered educational content with a clean and intuitive UI
 
 ---
