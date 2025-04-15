@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Experienced Developer specializing in **Java**, **Kotlin**, and **Flutter** for mobile app development. Also proficient in the **MERN Stack** for full-stack web development.<br>  
+🚀 Experienced Developer specializing in **Java**, **Kotlin**, and **Flutter** for mobile app development. Also proficient in the **MERN Stack** for full-stack web development.  
 💡 Passionate about building high-performance applications and always eager to learn new technologies.
 
 ## 🌐 Connect with Me:
@@ -9,6 +9,7 @@
 ---
 
 # 💻 Tech Stack:
+
 ### 🚀 Languages & Frameworks:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -23,12 +24,51 @@
 
 ---
 
+# 🚀 Projects:
+
+### 📚 EduTech Application
+- Developed both **teacher** and **student** sides of an educational app.
+- Real-time communication, content sharing, and user role management.
+
+### 🏢 Warehouse Management System
+- Built for **Singodwala Warehousing Logistics Pvt. Ltd.**
+- Features: inventory management, employee tracking, and real-time updates.
+
+### 👥 Employee & Driver Management Apps
+- Internal tools for logistics operations.
+- Features: task assignments, route planning, live tracking.
+
+### 🚚 Transport Management App
+- Optimized transport operations with tracking and driver route updates.
+
+### 💰 Finance App
+- Managed personal/business finance with tracking, reporting, and data security.
+
+### 📸 Social Media Application
+- **AWS CloudFront** for video/audio streaming  
+- **FFMPEG** for media manipulation  
+- **img.ly SDK** for video editing and effects
+
+### 🛍️ E-commerce Fashion App (AR)
+- Developed at **Homybee** using **Java**
+- Integrated **AR** for virtual clothes trials
+
+### 📚 Newton Desk Educational App
+- Developed at **Ethereal Softech** using **Kotlin**
+- Delivered educational content with a clean and intuitive UI
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anantmann9057&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anantmann9057&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anantmann9057&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=anantmann9057&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantmann9057&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=anantmann9057&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
